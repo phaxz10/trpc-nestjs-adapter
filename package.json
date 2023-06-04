@@ -1,6 +1,6 @@
 {
   "name": "@phaxz10/trpc-nestjs-adapter",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-alpha.5",
   "description": "TRPC adapter for NestJS",
   "keywords": [
     "nestjs",
