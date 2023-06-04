@@ -4,6 +4,11 @@
 - Allows you to use request scoped Nest.JS providers
 - Allows you to use Nest.JS's great module system
 
+## Note
+
+- this is a fork from [trpc-nest-adapter](https://github.com/macstr1k3r/trpc-nestjs-adapter)
+- this one has support for using fastify adapter
+
 
 ## Feature support
 I don't use all of the features tRPC has :/ 
