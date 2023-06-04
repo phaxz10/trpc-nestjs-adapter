@@ -12,6 +12,13 @@
     "name": "Darko Stojkovski",
     "email": "dar3.st@gmail.com"
   },
+  "contributors": [
+    {
+      "name": "Phaxz Bautista",
+      "email": "phaxz.bautista10@gmail.com",
+      "url": "https://jpbautista.vercel.app/"
+    }
+  ],
   "license": "MIT",
   "main": "./dist/lib/index.js",
   "types": "./dist/lib/index.d.ts",
